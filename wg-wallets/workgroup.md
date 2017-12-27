@@ -9,3 +9,4 @@ Planning and coordination for advancements in Bitcoin Cash Wallets.
 # Interested Parties
 
 - Amaury Sechet, @deadalnix, Bitcoin ABC
+- Chris Pacia, chris@ob1.io, OpenBazaar
